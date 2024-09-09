@@ -1,14 +1,14 @@
 {
   "name": "data",
   "version": "1.0.0",
-  "description": "Food Delivery App Data",
+  "description": "Movies Data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "@SebastianLunar",
+  "author": "@DaniielEF",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
